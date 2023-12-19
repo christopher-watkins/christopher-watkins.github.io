@@ -1,7 +1,7 @@
 #+title: Christopher Watkins
 
-Here is a [[file:example_linked_org_file.org][LINK]] to a file for testing.
 # I am an aspiring researcher in economics and computer science. On this website you will find my research, CV, and contact information. 
 - [[file:research.org][Research]]
-- [[file:cv.pdf][CV]]
+- CV
 - Contact
+# Here is a [[file:example_linked_org_file.org][LINK]] to a file for testing.
