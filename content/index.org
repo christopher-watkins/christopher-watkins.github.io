@@ -1,10 +1,7 @@
-#+title: Org Mode Example Website
+#+title: Christopher Watkins
 
-Test
-
-
-* Test heading 1
-
-Test [[file:example_linked_org_file.org][link]] to another org file.
-
-* Test heading 2
+# Here is a [[file:example_linked_org_file.org][LINK]] to a file for testing.
+# I am an aspiring researcher in economics and computer science. On this website you will find my research, CV, and contact information. 
+- [[file:research.org][Research]]
+- [[file:cv.pdf][CV]]
+- Contact

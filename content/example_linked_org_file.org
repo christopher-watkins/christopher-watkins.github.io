@@ -1,7 +1,14 @@
 
 
-Test text.
 
-Adding some text to test changes.
-
-Augie: YOU ARE BUSTED!!!!!!!!
+* Heading 1
+** Subheading 1
+*** Subsubheading1 
+Text inside subsubheading1.
+* Heading 2
+- bullet1
+- bullet2
+  + subbullet2.1
+-  bullet3
+* Heading 3
+Text inside heading3.

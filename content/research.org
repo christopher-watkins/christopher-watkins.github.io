@@ -1,0 +1,8 @@
+
+
+
+
+- Economics
+- Computer Science
+- Philosophy
+  # + [[file:research/philosophy/Searles-Sophistry-Examining-the-Foundation-of-the-Chinese-Room.pdf][Searle’s Sophistry: Examining the Foundation of the Chinese Room]]
