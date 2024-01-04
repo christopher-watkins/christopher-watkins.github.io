@@ -1,8 +1,27 @@
 \\
 \\
-\\
-\\
 - Economics
-- Computer Science
-- Philosophy
-  # + [[file:research/philosophy/Searles-Sophistry-Examining-the-Foundation-of-the-Chinese-Room.pdf][Searle’s Sophistry: Examining the Foundation of the Chinese Room]]
+  + [[file:research_interests_economics.org][Summary of Economics Research Interests]]
+- Computer Science / Computational Science
+- Epistemology / Philosophy of Science
+# - Complex Systems Theory
+# - Applied Mathematics
+
+# * I am an aspiring researcher in economics and computational science. My professional background lies in applying analytical methods to problems of asset allocation and investment portfolio design in my consulting work for institutional investors. \\
+
+# * other options for research interest descriptions
+# I am a computational scientist and economist. I do research on complex systems. 
+# I am an aspiring economist and computer scientist. My research interests in economics are in macroeconomic theory, computational stock-flow consistent macro models, post-Keynesian theory, monetary and financial economics, and theories of technology. I also study economic, social and political history. Empirically, I do work in time series econometrics, business cycle modeling, monetary and fiscal policy analysis, estimation of dynamical systems models in the complexity economics school, and statistical causal inference using graphical causal models. In computer science my research interests are in the theory of computation, computational science and modeling, machine learning theory and applications, computational causal inference, information theory, complex systems modeling and theory, and connections between type theory and category theory in mathematics. Finally, I am interested in epistemology and the philosophy of science, particularly in the Popperian tradition. 
+# Bayesian econometrics? Nonparametric econometrics?
+
+# I am an aspiring economist and computer scientist. My research interests in economics are in post-Keynesian macroeconomic theory and stock-flow consistent computatoinal macroeconoimic models. I also study economic, monetary, social and political history. Empirically, I do work in time series econometrics and dyanmical models in the complexity economics school. In computer science, my research interests are in the theory of computation, connections between type theory and category theory in mathematics, computational science and modeling, machine learning theory and applications, and computational causal inference. (and complex systems theory!) Lastly, I am interested in the philosophy of science and epistemology, particularly in the Popperian tradition.
+
+# I am a researcher in economics, computational science, and mathematics. My research interests lie around the emergence of higher-level structure, behavior, functionality and dynamics in complex economic, biological and physical systems. For example, chemical abiogenesis, DNA replication and evolutionary selection, human cognition and learning, social organization and communication, technological and economic development. I also study systems that create, transform, store, and communicate information, broadly speaking I see this as 'computing' regardless of the substrate (biological, digital computation, economic, cognitive/neural). Several abstract theories that guide my thinking are applied category theory, assembly theory, constructor theory, evolutionary theory, information theory and theory of computation, Popperian epistemology. Philosophically I am a scientific realist broadly in line with Popperian epistemology. Lately, I have been working on economic growth theory in the context of abstract knowledge creation/dissemination and technological evolution in market economies.
+# Academically I pursue research interests in macroeconomics, complex systems modeling, and computational science. 
+# * Research Interests
+# Computational approaches to modeling and explaining complex systems. Mathematics of information, computation and dynamical systems. Primary applications in economics, biology, and physics. 
+# I am a researcher in economics, computational science, and mathematics. My research interests lie around the emergence of higher-level structure, behavior, and functionality in complex economic, biological and physical systems. For example, chemical abiogenesis, DNA replication and evolutionary selection, human cognition and learning, social organization and communication, technological and economic development. Several abstract theories that guide my thinking are applied category theory, assembly theory, constructor theory, evolutionary theory, information theory and theory of computation, Popperian epistemology. Philosophically I am a scientific realist broadly in line with Popperian epistemology. Lately, I have been working on economic growth theory in the context of abstract knowledge creation/dissemination and technological evolution in market economies.
+
+
+# * Areas of Specialization
+# Macroeconomics, monetary theory, finance, portfolio strategy. Time series econometrics and statistics. Computational/mathematical modeling, dynamical system simulation, analytical methods for complex systems.
